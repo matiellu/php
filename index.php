@@ -1,8 +1,8 @@
 <?php
 
-    echo "tudo de bom pra vc";
+    echo "Eu sou tudo de bom";
 
-    echo "Rafa volte";
+    echo "Eu sou rico";
 
 
 ?>

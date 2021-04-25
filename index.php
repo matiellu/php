@@ -1,8 +1,8 @@
 <?php
 
-    echo "tudo de bom pra vc";
+    echo "nada";
 
-    echo "Rafa volte";
+    echo "nada";
 
 
 ?>

@@ -4,5 +4,4 @@
 
     echo "Eu sou rico";
 
-
 ?>
